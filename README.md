@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-way-you-look/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For The Way You Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-way-you-look/) |
+| **Get License** | [Music Rights & Licensing for The Way You Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-way-you-look/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Just the way you look in that amber glow
+> Making every shadow of the world let go
+> Tangled in the middle of a midnight dream
+> You're the sweetest vision that I've ever seen
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

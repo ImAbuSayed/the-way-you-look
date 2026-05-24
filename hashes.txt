@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - The Way You Look
+
+This log tracks the cryptographic history and versioning for the song **The Way You Look** (the-way-you-look).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:01:47.707880 | `v1` | `ad4d9ab33dde7a529a65bae880f3c4ed3183d5651bf7f46cb117006ee6f05fc8` | `da05554940ce3d3678c48a6d4fdc7d239fc768a7162f9f02b20051be673a7a05` | `2026-05-25_the-way-you-look-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

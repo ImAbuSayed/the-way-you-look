@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-way-you-look/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for The Way You Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-way-you-look/) |
+| **Get License** | [Secure Licensing Rights for The Way You Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-way-you-look/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ad4d9ab33dde7a529a65bae880f3c4ed3183d5651bf7f46cb117006ee6f05fc8` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
